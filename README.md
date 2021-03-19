@@ -1,3 +1,4 @@
+![perschool_summary_latest](https://user-images.githubusercontent.com/78656720/111802804-ca997200-88a4-11eb-9798-0ced794e51ca.png)
 
 # School_District_Analysis
 This project analyzes student funds and student standardized test scores. The project uses the anaconda software packages and python programing language as a tools for the analysis.
@@ -33,5 +34,7 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
  #### The school summary
  Based on the recommendation of the school board we have looked closely each schools summary and we finde the following in Thomas High School.Looking at figure five and six , the *overall passing percentage* droped from 90.4 to 65 percent, *reading* from 97 to 69, and *math* from 93 to 67.
  
+ ![perschool_summary_latest](https://user-images.githubusercontent.com/78656720/111802940-ef8de500-88a4-11eb-83a7-ac6639b88003.png)
+
  ![PER_School Summary_Thomas](https://user-images.githubusercontent.com/78656720/111797278-632cf380-889f-11eb-8180-924a2817feae.png)
 ![New_per school summary](https://user-images.githubusercontent.com/78656720/111797352-78a21d80-889f-11eb-8ec3-f903c554707f.png)
