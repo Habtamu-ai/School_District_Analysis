@@ -32,9 +32,12 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
 ![District Summary](https://user-images.githubusercontent.com/78656720/111794795-f87ab880-889c-11eb-9874-73e36c11d8ab.png)
 
  #### The school summary
- Based on the recommendation of the school board we have looked closely each schools summary and we finde the following in Thomas High School.Looking at figure five and six , the *overall passing percentage* droped from 90.4 to 65 percent, *reading* from 97 to 69, and *math* from 93 to 67.Looking at the school summaary ingeneral the scores are alsmost the same ,the total number of students and the budget is also the same.
+ Based on the recommendation of the school board we have looked closely each schools summary and we finde the following in Thomas High School. Looking at figure five and six , the *overall passing percentage* droped from 90.4 to 65 percent, *reading* from 97 to 69, and *math* from 93 to 67.But this might be misleading, because we only remove the score but we kept the student number in the data which might affect the overall passing and the school budget.
  
+   ##### Fig. 5 District Summary after removing math and reading score
+ ![New_per school summary](https://user-images.githubusercontent.com/78656720/111797352-78a21d80-889f-11eb-8ec3-f903c554707f.png)
+   ##### Fig. 6 District Summary of the original data
  ![perschool_summary_latest](https://user-images.githubusercontent.com/78656720/111802940-ef8de500-88a4-11eb-83a7-ac6639b88003.png)
-
+   ##### Fig. 7 District Summary after removing grade 9th students from the data
  ![PER_School Summary_Thomas](https://user-images.githubusercontent.com/78656720/111797278-632cf380-889f-11eb-8180-924a2817feae.png)
-![New_per school summary](https://user-images.githubusercontent.com/78656720/111797352-78a21d80-889f-11eb-8ec3-f903c554707f.png)
+
