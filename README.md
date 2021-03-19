@@ -56,9 +56,29 @@ looking at the tabel below we cannot say the higher performing school has biger 
 ![Scores by Size](https://user-images.githubusercontent.com/78656720/111833777-06dec980-88c9-11eb-895f-553dbbad8bca.png)
 ![Scores By School Type](https://user-images.githubusercontent.com/78656720/111833785-09d9ba00-88c9-11eb-840a-6a2e58181031.png)
 
-Summary
+# Summary
+Summerizing our analysis we have noticed four main develppment from the previous analysis
+By just looking at the overall passing percentage we can summerize the following
+## Math and reading scores by grade
+   - 9th:
+   - 10th:
+   - 11th:
+   - 12th: 
+ ## Scores by school spending
+    - <$584:
+    - $585-629:
+    - $630-644:
+    - $645-675:
+   
+  ## Scores by school size
+     - Small(<1000)
+     - medium (1000-2000)
+     - Large(2000-5000)
+  
 
-
+   ## Scores by school type
+      - Charter
+      - District
 
 
 
