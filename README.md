@@ -12,11 +12,11 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
 ![Thomas_Grade_9th_removed](https://user-images.githubusercontent.com/78656720/111785702-50acbd00-8893-11eb-9155-3f570d1d5234.png)
 
 ### Second, we created the following metrics;
-   ### The district summary
-   ### The school summary
-   ### The top 5 and bottom 5 performing schools, based on the overall passing rate
-   ### The average math score for each grade level from each school
-   ### The average reading score for each grade level from each school
-   ### The scores by school spending per student, by school size, and by school type     
+   1.The district summary
+   2.The school summary
+   3.The top 5 and bottom 5 performing schools, based on the overall passing rate
+   4.The average math score for each grade level from each school
+   5.The average reading score for each grade level from each school
+   6.The scores by school spending per student, by school size, and by school type     
 
 
