@@ -41,3 +41,5 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
    ##### Fig. 7 District Summary after removing grade 9th students from the data
  ![PER_School Summary_Thomas](https://user-images.githubusercontent.com/78656720/111797278-632cf380-889f-11eb-8180-924a2817feae.png)
 
+#### The top 5 and bottom 5 performing schools, based on the overall passing rate
+![Top Terforming School](https://user-images.githubusercontent.com/78656720/111829318-e9a6fc80-88c2-11eb-8e19-7e7b0d92e0b0.jpeg)
