@@ -1,3 +1,4 @@
+
 # School_District_Analysis
 This project analyzes student funds and student standardized test scores. The project uses the anaconda software packages and python programing language as a tools for the analysis.
 # Overview of the school district analysis
@@ -18,5 +19,8 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
    #### The average math score for each grade level from each school
    #### The average reading score for each grade level from each school
    #### The scores by school spending per student, by school size, and by school type     
+![New_District_Summary](https://user-images.githubusercontent.com/78656720/111794066-3d521f80-889c-11eb-923d-fe72270d94bc.png)
 
 
+
+![District Summary](https://user-images.githubusercontent.com/78656720/111794795-f87ab880-889c-11eb-9874-73e36c11d8ab.png)
