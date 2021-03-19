@@ -19,6 +19,9 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
    #### The average math score for each grade level from each school
    #### The average reading score for each grade level from each school
    #### The scores by school spending per student, by school size, and by school type 
+   
+   
+   #### The district summary
    Looking at the two figures below the first district summary and the district summary after we replaced the grade 9th Thomas High school, there is a change in the math, reading and overall percentage passing rate though it is minimal.
    ##### Fig. 3 New District Summary
 ![New_District_Summary](https://user-images.githubusercontent.com/78656720/111794066-3d521f80-889c-11eb-923d-fe72270d94bc.png)
@@ -26,3 +29,9 @@ First, we removed grade 9th math and reading score from Thomas High School.The t
 
    ##### Fig. 4 District Summary
 ![District Summary](https://user-images.githubusercontent.com/78656720/111794795-f87ab880-889c-11eb-9874-73e36c11d8ab.png)
+
+ #### The school summary
+ Based on the recommendation of the school board we have looked closely each schools summary and we finde the following in Thomas High School.Looking at figure five and six , the *overall passing percentage* droped from 90.4 to 65 percent, *reading* from 97 to 69, and *math* from 93 to 67.
+ 
+ ![PER_School Summary_Thomas](https://user-images.githubusercontent.com/78656720/111797278-632cf380-889f-11eb-8180-924a2817feae.png)
+![New_per school summary](https://user-images.githubusercontent.com/78656720/111797352-78a21d80-889f-11eb-8ec3-f903c554707f.png)
