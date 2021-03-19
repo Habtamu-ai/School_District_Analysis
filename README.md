@@ -60,23 +60,48 @@ looking at the tabel below we cannot say the higher performing school has biger 
 Summerizing our analysis we have noticed four main develppment from the previous analysis
 By just looking at the overall passing percentage we can summerize the following
 ## Math and reading scores by grade
+
+![Math Average score by school](https://user-images.githubusercontent.com/78656720/111838397-adc66400-88cf-11eb-9908-2e85561b4022.png)
+
+![Reading average score by grade and school](https://user-images.githubusercontent.com/78656720/111838432-b9198f80-88cf-11eb-8989-d50b0930cb40.png)
+
+![Old_Math](https://user-images.githubusercontent.com/78656720/111838492-c8004200-88cf-11eb-82c8-04f34a98bcc4.png)
+![Old_Reading](https://user-images.githubusercontent.com/78656720/111838507-ccc4f600-88cf-11eb-9441-fb7ef8916916.png)
+
+
+
    - 9th:
    - 10th:
    - 11th:
    - 12th: 
  ## Scores by school spending
+    - ![Score by Spending](https://user-images.githubusercontent.com/78656720/111838556-e23a2000-88cf-11eb-9da8-c65677b3f77c.png)
+    - ![Old_by spending](https://user-images.githubusercontent.com/78656720/111838568-e5cda700-88cf-11eb-8849-1fc3f0b7ca4a.png)
+
+ 
+ 
+ 
     - <$584:
     - $585-629:
     - $630-644:
     - $645-675:
    
   ## Scores by school size
+     - ![Scores by Size](https://user-images.githubusercontent.com/78656720/111838618-f67e1d00-88cf-11eb-8b28-b02829db8105.png) - ![old_by size](https://user-images.githubusercontent.com/78656720/111838635-faaa3a80-88cf-11eb-9b60-529a55414dc0.png)
+
+  
+  
      - Small(<1000)
      - medium (1000-2000)
      - Large(2000-5000)
   
 
    ## Scores by school type
+   
+      ![Scores By School Type](https://user-images.githubusercontent.com/78656720/111838731-1f061700-88d0-11eb-93b6-4fa35ce1fde4.png)
+      
+      ![old_by type of school](https://user-images.githubusercontent.com/78656720/111838770-2fb68d00-88d0-11eb-8172-20078087c52c.png)
+
       - Charter
       - District
 
